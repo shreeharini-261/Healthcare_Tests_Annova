@@ -1,0 +1,13 @@
+Variable Name,Description,Values/Units
+Age,Age of the patient,Years
+Sex,Patient's sex,"M: Male, F: Female"
+ChestPainType,Type of chest pain experienced,"TA: Typical Angina, ATA: Atypical Angina, NAP: Non-Anginal Pain, ASY: Asymptomatic"
+RestingBP,Resting blood pressure,mm Hg
+Cholesterol,Serum cholesterol,mm/dl
+FastingBS,Fasting blood sugar,"1: if FastingBS > 120 mg/dl, 0: otherwise"
+RestingECG,Resting electrocardiogram results,"Normal, ST, LVH"
+MaxHR,Maximum heart rate achieved,60-202
+ExerciseAngina,Exercise-induced angina,"Y: Yes, N: No"
+Oldpeak,ST depression induced by exercise,Numerical value
+ST_Slope,Slope of the peak exercise ST segment,"Up, Flat, Down"
+HeartDisease,Presence of heart disease,"1: Yes, 0: No"
